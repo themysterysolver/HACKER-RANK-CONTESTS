@@ -115,6 +115,4 @@ A special comment is ``#StartCode``, this will generate the text "your code goes
 | https://www.hackerrank.com/challenges/breaking-best-and-worst-records | ``FUNCTION(INTEGER_ARRAY, getRecord, INTEGER_ARRAY s)``<br>``Integer(n)``<br>``Array(integer,s,n,single)``<br>``INVOKE(INTEGER_ARRAY, result, getRecord, s[n])``<br>``PRINT(INTEGER_ARRAY, result)`` |
 | https://www.hackerrank.com/challenges/cavity-map   | ``integer(n)``<br>``2DArray(character,grid,n,n+1)  ``|
 
-### Support
 
-If you have any doubt, contact [HackerRank support](http://hackerrank.com/support), our engineers will reach you.
